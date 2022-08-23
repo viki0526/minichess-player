@@ -3,7 +3,6 @@
 ### The autograder will not run if it detects any print function.
 
 # Helper functions to aid in your implementation. Can edit/remove
-print('hi')
 
 class Piece:
     @staticmethod
